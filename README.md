@@ -1,2 +1,2 @@
-# Diabetes-Dataset
-Scikit Dataset
+# Diabetes-Linear Regression Model (ML)
+Using Scikit Dataset
